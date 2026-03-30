@@ -2,7 +2,7 @@
 
 🎓 First-Year B.Tech Student  
 🏫 VIT Bhopal University  
-🌿 Branch: [Your Branch]  
+🌿 Branch: Cloud Computing and Automation  
 
 ---
 
@@ -20,8 +20,7 @@ I aim to develop skills in software development, improve my coding ability, and 
 
 ## 🔗 Profiles  
 
-- GitHub: https://github.com/yourusername  
-- LinkedIn: [Add your LinkedIn profile link]  
+- GitHub: https://github.com/deepak25bsa10126-cyber    
 
 ---
 
@@ -29,7 +28,8 @@ I aim to develop skills in software development, improve my coding ability, and 
 
 - C++ Programming  
 - Basic Problem Solving  
-- Digital Tools (Canva, Google Forms, MS Office)  
+- Digital Tools (Canva, Google Forms, MS Office)
+- Python  
 
 ---
 
